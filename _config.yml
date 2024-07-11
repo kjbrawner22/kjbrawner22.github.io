@@ -113,7 +113,7 @@ comments:
     category: Announcements
     category_id: DIC_kwDOMVNIH84Cgu9E
     mapping: pathname
-    strict: 0'
+    strict: 0
     input_position: top
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: 1
