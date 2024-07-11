@@ -1,7 +1,7 @@
 ---
 title: MealTime App Intro
 categories: [application]
-tags: []     # TAG names should always be lowercase
+tags: [mealtime, appdev]
 ---
 ## MealTime App Intro
 
