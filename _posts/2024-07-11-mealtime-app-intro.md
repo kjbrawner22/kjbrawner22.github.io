@@ -1,7 +1,7 @@
 ---
 title: MealTime App Intro
-categories: [application]
-tags: [mealtime, appdev]
+categories: [Dev]
+tags: [mealtime, app-dev]
 ---
 My family has been struggling with making, scheduling and planning nutritious meals since the birth our baby girl. I also had a health scare where I was in the hospital for almost 2 weeks, and that has taxed my wife tremendously. I intend to fix that in the short-term by regaining my strength and helping with more cooking and cleaning, but my mid-to-long term solution for this particular pain point is to fix our planning woes with my mediocre web app skills.
 
