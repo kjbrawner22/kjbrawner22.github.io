@@ -14,16 +14,16 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Kenny's Tech Time # the main title
+title: Brawner DevWorks # the main title
 
-tagline: My ruminations on programming and tech # it will display as the sub-title
+tagline: Ruminations on Programming and Tech # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Kenny Brawner's personal website and blog on software and the tech world.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://kjbrawner22.github.io"
+url: "https://brawnerdevworks.com"
 
 github:
   username: kjbrawner22 # change to your github username
@@ -38,7 +38,7 @@ social:
   email: kjbrawner22@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/kenny_brawner # change to your twitter homepage
     - https://github.com/kjbrawner22 # change to your github homepage
     - https://www.linkedin.com/in/kennybrawner
 
